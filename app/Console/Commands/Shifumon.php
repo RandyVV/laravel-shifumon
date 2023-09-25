@@ -19,7 +19,7 @@ class Shifumon extends Command
      *
      * @var string
      */
-    protected $description = 'Command description';
+    protected $description = 'Jouer au jeu de Shifumi (Pierre-papier-ciseaux) avec des Pokémon.';
 
     /**
      * Execute the console command.
